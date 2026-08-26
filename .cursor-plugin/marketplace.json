@@ -1,0 +1,18 @@
+{
+  "name": "dash-security",
+  "owner": {
+    "name": "Dash Security",
+    "email": "support@dash.security"
+  },
+  "metadata": {
+    "description": "Dash Security plugin for Cursor: agentic security posture, supply-chain and shadow AI risk, agent session investigation, and AI spend.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "dash",
+      "source": ".",
+      "description": "Dash MCP plus 5 skills for agentic security: estate discovery, supply-chain risk, shadow AI risk, agent session investigation, and AI spend."
+    }
+  ]
+}

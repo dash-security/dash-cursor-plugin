@@ -1,0 +1,18 @@
+{
+  "name": "dash",
+  "displayName": "Dash Security",
+  "version": "0.1.0",
+  "description": "Agentic security for Cursor. Discover your AI estate, assess supply-chain and shadow AI risk, investigate agent sessions, and track AI spend through the Dash MCP.",
+  "author": {
+    "name": "Dash Security",
+    "email": "support@dash.security"
+  },
+  "homepage": "https://github.com/dash-security/dash-cursor-plugin",
+  "repository": "https://github.com/dash-security/dash-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["dash", "security", "ai-security", "agentic-security", "mcp", "shadow-ai", "supply-chain", "ai-spend"],
+  "category": "security",
+  "tags": ["security", "ai-governance", "mcp", "shadow-ai", "supply-chain"],
+  "mcpServers": "./mcp.json"
+}
